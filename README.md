@@ -19,4 +19,4 @@ The challenge goal is to create a Rest API with Node JS with Typescript using th
 
 If you have the Insomnia Rest installed, click on the link below to load the configuration in your app :grin:.
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Challenge%202%3A%20NodeJS%20Concepts&uri=https%3A%2F%2Fgithub.com%2Fmesaquejunior%2Ffirstnodeproject%2Fblob%2Fmaster%2Finsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Challenge%205%3A%20First%20Node%20Project&uri=https%3A%2F%2Fgithub.com%2Fmesaquejunior%2Ffirstnodeproject%2Fblob%2Fmaster%2Finsomnia.json)
