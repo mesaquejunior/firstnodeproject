@@ -8,7 +8,7 @@
 
 ##  :rocket: About the challenge
 
-The challenge goal is to create a Rest API with Node JS with Typescript using the express framework using the model, repositories and services concepts.
+The challenge goal is to create a Rest API with Node JS with Typescript using the express framework and the model, repositories and services concepts.
 
 
 - GET /transactions: to list all transactions and sum of all transactions spliting by income, outcome and the total;
